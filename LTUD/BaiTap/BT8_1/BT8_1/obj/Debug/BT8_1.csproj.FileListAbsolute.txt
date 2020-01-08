@@ -1,0 +1,6 @@
+D:\LTUD_WD\LTUD\BaiTap\BT8_1\BT8_1\bin\Debug\BT8_1.exe.config
+D:\LTUD_WD\LTUD\BaiTap\BT8_1\BT8_1\bin\Debug\BT8_1.exe
+D:\LTUD_WD\LTUD\BaiTap\BT8_1\BT8_1\bin\Debug\BT8_1.pdb
+D:\LTUD_WD\LTUD\BaiTap\BT8_1\BT8_1\obj\Debug\BT8_1.csprojResolveAssemblyReference.cache
+D:\LTUD_WD\LTUD\BaiTap\BT8_1\BT8_1\obj\Debug\BT8_1.exe
+D:\LTUD_WD\LTUD\BaiTap\BT8_1\BT8_1\obj\Debug\BT8_1.pdb
